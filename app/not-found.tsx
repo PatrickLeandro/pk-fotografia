@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="login"><div className="eyebrow">PK Fotografia</div><h1>Esta história<br/>não está por aqui.</h1><p>A galeria pode ter sido retirada do portfólio ou o endereço está incorreto.</p><a className="primary-link" href="/">Voltar ao portfólio</a></main>}
